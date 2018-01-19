@@ -1,0 +1,6 @@
+Case #1: 30
+Case #2: 4
+Case #3: 2
+Case #4: 70
+Case #5: 252
+Case #6: 624937395
